@@ -1,0 +1,23 @@
+
+/* .recipe-container
+{
+    margin-left: 15px;
+    display:flex;
+    flex-direction: column;
+} */
+
+
+.recipe-container
+{
+    width:45%;
+    text-align: center;
+    box-shadow: 0 6px 10px rgb(112, 111, 111);
+    border-radius: 5%;
+    margin: 10px;
+}
+
+h2
+{
+    text-indent: mute;
+    color: dimgrey;
+}
